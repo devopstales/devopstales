@@ -34,6 +34,7 @@
   </tbody>
 </table>
 
+<!--
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/_devopstales"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=_devopstales&layout=wide" alt="github-readme-twitter"></a></p>
 
@@ -42,6 +43,5 @@
 [![Top Languages (open-source)](https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=devopstales.github.io&username=devopstales&theme=tokyonight)](https://github.com/devopstales)
 [![Account Stats](https://github-readme-stats.vercel.app/api?username=devopstales&show_icons=true&theme=tokyonight)](https://github.com/devopstales)
 
-<!--
 https://github.com/athul/athul
 -->
