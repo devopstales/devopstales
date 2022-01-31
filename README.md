@@ -32,11 +32,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/trivy-operator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/devopstales/kubectl-login"><b>kubectl-login</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/kubectl-login?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/kubectl-login?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/kubectl-login?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/kubectl-login?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/devopstales/kube-openid-connect"><b>Kubectl OpenID Connect</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/kube-openid-connect?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/kube-openid-connect?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/kube-openid-connect?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/kube-openid-connect?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
