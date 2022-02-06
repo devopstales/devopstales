@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hello! I'm devopstales.</h2>
 <p align="center">
   <a href="https://devopstales.github.io">Blog</a> •
-  <a href="https://twitter.com/_devopstales">Twitter</a>
-  <a href="https://devopstales.github.io/helm-charts">Helm Repo</a>
+  <a href="https://twitter.com/_devopstales">Twitter</a> •
+  <a href="https://devopstales.github.io/helm-charts">Helm Repo</a> •
   <a href="https://github.com/devopstales/homebrew-devopstales">Homebrew tap</a>
 </p>
 
