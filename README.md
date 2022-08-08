@@ -47,6 +47,22 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/kubectl-user-create?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/kubectl-user-create?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/devopstales/kubectl-user-create"><b>kube-log-symlinker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/kube-log-symlinker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/kube-log-symlinker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/kube-log-symlinker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/kube-log-symlinker?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/devopstales/kubectl-user-create"><b>k8s-logrotate</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/k8s-logrotate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/k8s-logrotate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/k8s-logrotate?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/k8s-logrotate?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/devopstales/helm-charts"><b>DevOpsTales Helm Repository</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/helm-charts?style=flat-square&labelColor=343b41"/></td>
