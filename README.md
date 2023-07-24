@@ -34,7 +34,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/trivy-operator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/devopstales/trivy-operator"><b>KubeDash</b></a></td>
+      <td><a href="https://github.com/devopstales/KubeDash"><b>KubeDash</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/KubeDash?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/KubeDash?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/KubeDash?style=flat-square&labelColor=343b41"/></td>
