@@ -6,7 +6,7 @@
   <a href="https://github.com/devopstales/homebrew-devopstales">Homebrew tap</a>
 </p>
 
-- 🔭 I’m currently working on **Trivy Operator**
+- 🔭 I’m currently working on **KubeDash**
 - 🌱 I’m currently learning **Go and Python**
 - 💬 Ask me about **Openshift, Kubernetes, Helm and Python**
 - 📫 How to reach me: [@_devopstales](https://twitter.com/_devopstales) on Twitter
@@ -27,11 +27,32 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/devopstales/trivy-operator"><b>Trivy Operator</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/trivy-operator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/trivy-operator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/trivy-operator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/trivy-operator?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/devopstales/helm-charts"><b>DevOpsTales Helm Repository</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/helm-charts?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/helm-charts?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/helm-charts?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/helm-charts?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/devopstales/imagepullsecret-patcher"><b>imagepullsecret-patcher</b></a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/devopstales/zsh-kubecolor"><b>zsh-kubecolor</b></a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/devopstales/netbox-registrator"><b>netbox-registrator</b></a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/devopstales/KubeDash"><b>KubeDash</b></a></td>
@@ -39,6 +60,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/KubeDash?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/KubeDash?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/KubeDash?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/devopstales/trivy-operator"><b>Trivy Operator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/trivy-operator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/trivy-operator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/trivy-operator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/trivy-operator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/devopstales/kube-openid-connect"><b>Kubectl OpenID Connect</b></a></td>
@@ -69,13 +97,6 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/k8s-logrotate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/k8s-logrotate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/k8s-logrotate?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/devopstales/helm-charts"><b>DevOpsTales Helm Repository</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/devopstales/helm-charts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/devopstales/helm-charts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/devopstales/helm-charts?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/devopstales/issues-pr/thmsgbrt/helm-charts?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
