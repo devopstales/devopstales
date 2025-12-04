@@ -41,6 +41,13 @@
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/devopstales/kube-dump"><b>kube-dump</b></a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/devopstales/zsh-kubecolor"><b>zsh-kubecolor</b></a></td>
       <td></td>
       <td></td>
